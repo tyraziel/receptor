@@ -26,3 +26,6 @@ receptorctl-test-venv/
 coverage.txt
 venv
 /vendor
+/pkg/services/.lock
+/pkg/workceptor/status
+/pkg/workceptor/status.lock
